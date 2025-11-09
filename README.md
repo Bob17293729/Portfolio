@@ -1,6 +1,5 @@
-# Portfolio Website
+# Portfolio Website @ kenanr.com
 
-A modern, responsive portfolio website built with React, TypeScript, and Vite. Features a beautiful glassmorphic design with smooth animations and interactive components.
 
 ## Tech Stack
 
