@@ -96,6 +96,8 @@
   html {
     /* Ensure html element supports dark mode */
     transition: background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    overscroll-behavior: none;
+    overscroll-behavior-y: none;
   }
 
   body {
@@ -108,6 +110,9 @@
     transition: background-color 0.3s cubic-bezier(0.4, 0, 0.2, 1), color 0.3s cubic-bezier(0.4, 0, 0.2, 1);
     /* Ensure body respects Tailwind dark mode */
     min-height: 100vh;
+    overscroll-behavior: none;
+    overscroll-behavior-y: none;
+    -webkit-overflow-scrolling: touch;
   }
 
   code {
