@@ -3,16 +3,16 @@
     "title": "Zongbo Bao",
     "introText": "Hello, my name is",
     "subtitle": "AI Entrepreneur. AI-Native Engineer.",
-    "description": "My mission is to turn bold ideas into real, impactful systems that move the world forward.",
+    "description": "My mission is to build products that move the world forward. I believe true impact comes from turning technology into experiences people can feel — products that make intelligence simple, accessible, and genuinely useful.",
     "profileImage": "/profile_1.webp",
     "profileImageSrcSet": "/profile_1.webp 1160w",
     "profileImageSizes": "(max-width: 768px) 300px, (max-width: 1024px) 400px, 480px",
     "profileImageAlt": "Profile picture of Zongbo Bao"
   },
   "contact": {
-    "email": "kenanrustamov@gmail.com",
-    "github": "https://github.com/kenanr",
-    "linkedin": "https://linkedin.com/in/kenanrustamov",
+    "email": "zongbobao@gmail.com",
+    "github": "https://github.com/Bob17293729",
+    "linkedin": "https://www.linkedin.com/in/zongbo-bao-61897833b/",
     "resume": "/resume-public.pdf"
   },
   "education": [

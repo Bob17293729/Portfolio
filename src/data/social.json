@@ -4,7 +4,7 @@
       {
         "id": "email",
         "label": "Email",
-        "href": "mailto:kenanrustamov@gmail.com",
+        "href": "mailto:zongbobao@gmail.com",
         "icon": "emailLogo.svg",
         "alt": "Email",
         "isExternal": false,
@@ -13,7 +13,7 @@
       {
         "id": "github_intro",
         "label": "GitHub",
-        "href": "https://github.com/kenanrustamov",
+        "href": "https://github.com/Bob17293729",
         "icon": "gitHubLogo.svg",
         "alt": "GitHub",
         "isExternal": true,
@@ -22,7 +22,7 @@
       {
         "id": "linkedin_intro",
         "label": "LinkedIn",
-        "href": "https://linkedin.com/in/kenanrustamov",
+        "href": "https://www.linkedin.com/in/zongbo-bao-61897833b/",
         "icon": "linkedInLogo.svg",
         "alt": "LinkedIn",
         "isExternal": true,
