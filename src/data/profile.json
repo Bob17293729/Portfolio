@@ -2,12 +2,12 @@
   "profile": {
     "title": "Zongbo Bao",
     "introText": "Hello, my name is",
-    "subtitle": "AI Researcher & Software Engineer",
-    "description": "I'm a Master's student at Johns Hopkins University conducting AI research at the Center for Language and Speech Processing. With 3 years of experience building scalable, high-performance systems at firms like JPMorgan Chase, I'm super passionate about developing the next generation of intelligent applications!",
-    "profileImage": "/kenanRustamov.webp",
-    "profileImageSrcSet": "/kenanRustamov-300.webp 300w, /kenanRustamov.webp 1160w",
+    "subtitle": "AI Entrepreneur. AI-Native Engineer.",
+    "description": "My mission is to turn bold ideas into real, impactful systems that move the world forward.",
+    "profileImage": "/profile_1.webp",
+    "profileImageSrcSet": "/profile_1.webp 1160w",
     "profileImageSizes": "(max-width: 768px) 300px, (max-width: 1024px) 400px, 480px",
-    "profileImageAlt": "Profile picture of Kenan Rustamov"
+    "profileImageAlt": "Profile picture of Zongbo Bao"
   },
   "contact": {
     "email": "kenanrustamov@gmail.com",
